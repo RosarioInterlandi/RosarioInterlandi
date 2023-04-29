@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in dynamic team
 - 🌱 I’m currently learning java, I have learned java, html, MySQL, Python and engineering subjects
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rosario__interlandi in instagram
+- 📫 How to reach me rosario__interlandi on instagram
 
 <!---
 RosarioInterlandi/RosarioInterlandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
